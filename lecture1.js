@@ -2,17 +2,17 @@
  * 1. Are the following variable valid? If it is not please explain it and correct them using the est practise
  */
 
-var 1stCar = 'Doge';
-var var = 'variable';
-var first name = 'Jerry';
-var Sch00lName = 'MEST';
-var totalnumber = 100;
+var 1stCar = 'Doge'; // This is not correct because variables are not allowed to have numbers starting their declaration
+var var = 'variable'; // This is not correct because javascript uses the var keyword as an inbuilt name and cannot be reused
+var first name = 'Jerry'; // Spaces are not allowed within variable names so this is not correct
+var Sch00lName = 'MEST' // This is correct and only needs ; to end the statement
+var totalnumber = 100; // this is correct
 
 /*
  * 2. Are the following variable valid? If it is not please explain it and correct them by using the best practise
  */
-var greeting  =  'It's nice to me you today!';
-var response = "Ashwin said, "Yes Sir!"";
+var greeting  =  'It's nice to me you today!';// This is wrong. It should have been something like this, "It's nice to meet you today!"
+var response = "Ashwin said, "Yes Sir!""; // "Aswhin said, 'Yes Sir!'";
 
 
 /*
