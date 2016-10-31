@@ -2,7 +2,7 @@
  * 1. Are the following variable valid? If it is not please explain it and correct them using the est practise
  */
 
-var 1stCar = 'Doge';
+var _1stCar = 'Doge';
 var var = 'variable';
 var first name = 'Jerry';
 var Sch00lName = 'MEST';
